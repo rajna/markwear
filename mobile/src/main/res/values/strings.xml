@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mark</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activated">ActivatedActivity</string>
+    <string name="message">mark一下</string>
+    <string name="button_text">点击我获得一个notification</string>
+    <string name="notification_title">嗨 "!"我是MARK</string>
+    <string name="notification_text">欢迎使用MARK</string>
+    <string name="first_action">查看guwu的网站</string>
+    <string name="mark_label">MARK</string>
+    <string name="wearable_action">mark一下</string>
+
+    <string-array name="reply_choices">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="title_activity_replay">ReplayActivity</string>
+    <string name="title_activity_reply">replyActivity</string>
+
+</resources>
